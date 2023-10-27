@@ -1,0 +1,7 @@
+[] Adapt old repo code into a single page React App
+[] Add a button for switching to the Admin Dashboard
+[] Connect Firebase
+[] Integrate Firebase Google Auth to verify the admin email
+[] Create the Admin Dashboard as a separate route using React Router
+[] Research and integrate the upload of files, images and YouTube video links (for resume, project profile pictures and demo videos )
+[] Deploy to Firebase Hosting
